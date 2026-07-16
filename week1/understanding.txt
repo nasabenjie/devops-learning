@@ -1,0 +1,2 @@
+#!/bin/bash-This tells the computer to use bash to run this script
+
