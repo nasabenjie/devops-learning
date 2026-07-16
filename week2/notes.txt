@@ -1,0 +1,10 @@
+Week 2 - Git Learning Notes
+
+Commands learned:
+- git init - initialize a repository
+- git status - check status of files
+- git add - stage files
+- git commit - save snapshot
+- git push - upload to GitHub
+- git branch - create/list branches
+- git checkout - switch branches
