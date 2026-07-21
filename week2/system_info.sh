@@ -1,6 +1,6 @@
 #!/bin/bash
 current_user=$(whoami)
-echo "$current_user: $current_user"
+echo "current_user: $current_user"
 current_dir=$(pwd)
 echo "Your in this folder: $current_dir"
 current_date=$(date)
