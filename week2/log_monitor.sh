@@ -1,5 +1,4 @@
 #!/bin/bash
-
 mkdir -p logs
 
 log_file="logs/activity.log"
