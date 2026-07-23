@@ -1,0 +1,8 @@
+You type google.com and press Enter
+Your computer asks the DNS server "what is the IP address of google.com?"
+DNS replies with 172.217.170.206
+Your computer connects to that IP address on port 443 because it is HTTPS
+A TLS handshake happens — your computer and Google's server negotiate encryption so all communication is secure
+Your computer sends an HTTP GET request — "give me the homepage"
+Google's server sends back HTML, CSS and JavaScript
+Your browser renders that code into the visual page you see
