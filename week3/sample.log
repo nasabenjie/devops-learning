@@ -1,0 +1,9 @@
+INFO: Server started successfully
+INFO: User logged in
+ERROR: Database connection failed
+INFO: Retrying connection
+ERROR: Timeout occurred
+INFO: Connection restored
+WARNING: High memory usage
+ERROR: Disk space low
+INFO: Backup completed

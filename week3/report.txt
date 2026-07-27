@@ -1,0 +1,13 @@
+LOG ANALYSIS REPORT
+==================
+
+Total errors: 3
+Total warnings: 1
+
+ERRORS:
+  ERROR: Database connection failed
+  ERROR: Timeout occurred
+  ERROR: Disk space low
+
+WARNINGS:
+  WARNING: High memory usage

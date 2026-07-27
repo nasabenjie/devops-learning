@@ -1,0 +1,11 @@
+{
+    "hostname": "web-server-01",
+    "ip": "192.168.1.100",
+    "port": 443,
+    "status": "running",
+    "services": [
+        "nginx",
+        "python",
+        "postgresql"
+    ]
+}

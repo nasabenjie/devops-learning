@@ -1,0 +1,17 @@
+{
+    "timestamp": "2026-07-27 12:16:36.335425",
+    "current_user": "cog",
+    "home_directory": "/home/cog",
+    "current_directory": "/home/cog/devops-learning/week3",
+    "files_in_current_dir": [
+        "server.json",
+        "json_demo.py",
+        "report.txt",
+        "file_demo.py",
+        "demo.txt",
+        "system_check.py",
+        "log_parser.py",
+        "sample.log",
+        "api_demo.py"
+    ]
+}
