@@ -1,0 +1,12 @@
+{
+    "total_errors": 3,
+    "total_warnings": 1,
+    "error_messages": [
+        "ERROR: Database connection failed",
+        "ERROR: Timeout occurred",
+        "ERROR: Disk space low"
+    ],
+    "warning_messages": [
+        "WARNING: High memory usage"
+    ]
+}
