@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+mkdir -p my_folder
+echo "folder created"
+
+echo " hello hello" > my_folder/greeting.txt
+echo " file is created"
+
+echo "folder and file created"
+ls -l my_folder
